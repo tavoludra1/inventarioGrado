@@ -5,7 +5,8 @@ Proyecto que desarrolla un sistema web para el control de activos de la empresa
 Permite utilizar el modelo en ramas de Vincent
 
 # Creación del directorio raíz
->raiz 
+
+	>raiz 
 		|-app/
 			 |-controllers/
 			 |-lib/
