@@ -4,7 +4,7 @@ Proyecto que desarrolla un sistema web para el control de activos de la empresa
 # iniciar Git Flow
 Permite utilizar el modelo en ramas de Vincent
 
-# Creación del directorio raíz
+# Creacion del directorio raiz
 
 	>raiz 
 		|-app/
@@ -19,3 +19,8 @@ Permite utilizar el modelo en ramas de Vincent
 		|-fonts/
 		|-js
 		index.php
+
+# Creacion de .htaccess
+
+Evitar por medio de la configuracion de directivas en Apache el acceso a carpetas
+del sistema sin autorizacion
